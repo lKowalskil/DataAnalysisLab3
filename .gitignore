@@ -6,6 +6,21 @@ __pycache__/
 # C extensions
 *.so
 
+train
+val*
+test
+Dog*
+data
+big_cats
+flower*
+rice*
+glove*
+tiny*
+Wiki*
+big*
+reddit*
+output*
+
 # Distribution / packaging
 .Python
 build/
